@@ -2,7 +2,7 @@ let input = document.getElementById("input");
 let buttn = document.getElementById("bttnFind");
 
 //task 3
-/* if(buttn){
+if(buttn){
     buttn.addEventListener("click", () => {
         checked(input.value)
         alert(arrObj[0].name)
@@ -16,15 +16,15 @@ function checked(str){
     } else{
         alert(input.value)
     }
-} */
+}
 
 //task 5
-/* let arrObj = [{name: 'Alex', age: 23} 
+let arrObj = [{name: 'Alex', age: 23} 
             , {name: 'Dima', age: 33}
             , {name: 'Vasya', age: 33} 
             , {name: 'Tolik', age: 43}]
 
- */
+
 //task 6
 function superSum(a, b){
     return a + b
