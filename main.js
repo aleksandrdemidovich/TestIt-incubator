@@ -26,11 +26,11 @@ let arrObj = [{name: 'Alex', age: 23}
 
 
 //task 6
-function superSum(a, b){
+/* function superSum(a, b){
     return a + b
 }
 
-alert(superSum(5, Math.PI))
+alert(superSum(5, Math.PI)) */
 
 //task 7
 let numArr = []
